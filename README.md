@@ -8,6 +8,8 @@
 
 This project simulates a full match of *Lupus in Fabula* (also known as *Werewolf*) using autonomous AI agents that interact through natural language. The game unfolds without human intervention, with a Narrator coordinating the turns and Players freely discussing, accusing, and voting according to predefined rules.
 
+The code in this repository was written using the [Datapizza AI](https://github.com/datapizza-labs/datapizza-ai) framework.
+
 ---
 
 ## 🎮 Features
