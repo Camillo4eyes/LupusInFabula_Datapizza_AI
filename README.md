@@ -3,6 +3,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<img width="1024" height="1024" alt="cover_image_generated_with_gemini" src="https://github.com/user-attachments/assets/7cb64af7-8df0-4611-897d-f941b79be613" />
+
+
 This project simulates a full match of *Lupus in Fabula* (also known as *Werewolf*) using autonomous AI agents that interact through natural language. The game unfolds without human intervention, with a Narrator coordinating the turns and Players freely discussing, accusing, and voting according to predefined rules.
 
 ---
